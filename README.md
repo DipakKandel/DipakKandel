@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DipakKandel
-- 👀 I’m interested in js
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on js
+- 👀 I’m interested in JS
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me to 
 
 <!---
