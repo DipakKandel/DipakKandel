@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DipakKandel
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS
+- 👀 I’m interested & learning Node,GraphQL, Serverless, AWS, TS
+- 🌱 I’m currently learning Supabase
+- 💞️ I’m looking to collaborate on Node Projects
 <!--- 📫 How to reach me to --->
 
 <!---
