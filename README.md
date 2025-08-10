@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DipakKandel
-- 👀 I’m interested & learning Node,GraphQL, Serverless, AWS, TS
+- 👀 I’m interested & learning Javascript, Python, Django, Scripting, Automation, AI
 - 🌱 I’m currently learning Supabase
-- 💞️ I’m looking to collaborate on Node Projects
 <!--- 📫 How to reach me to --->
 
 <!---
